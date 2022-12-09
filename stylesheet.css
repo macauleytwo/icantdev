@@ -3,3 +3,9 @@ body {
     background-image: url('bg-1.jpeg');
     color:floralwhite;
 }
+a:visited {
+    color: floralwhite;
+  }
+a:link {
+    color: floralwhite;
+}
